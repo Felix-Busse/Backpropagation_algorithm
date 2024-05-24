@@ -1,5 +1,8 @@
-# Backpropagation_neuronal_network_class
- Providing a neuronal network class by programming explicitly forward and backpropagation algorithm
- 
- Class object is capable of being trained with training data. This will use the programmed forward and backpropagation algorithm.
- As an example the reproduction of a simple image can be learned in the notebook.
+# Backpropagation_algorithm
+ A neuronal network class with explicit programmed forward and backpropagation algorithm
+
+ ### How to
+ Clone this repository and instantiate a object of the neuronal network class provided in [Jupyter-Notebook](net_object_orientated.ipynb).
+
+### Description
+ The class allows definition of sequential dense neuronal networks. Simple gradient descent training of neuronal network can be demonstrated by using the explicit programmed backpropagation algorithm, see example in the notebook.
